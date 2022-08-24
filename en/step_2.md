@@ -51,6 +51,25 @@ You could ask:
 
 --- /task ---
 
+### Basic research
+
+--- task ---
+
+Can your question be answered within the mission constraints?
+
+Here are some common constraints that impact or stop success:
++ 🌍 The ISS orbital path restrictions mean there are some places the ISS does not travel over
++ 💧 The Earth's surface is 70% water
++ ☁️ Cloud cover might obscure your target
++ During your experiment the ISS will not pass over the same place twice
++ 🔎 You will not see anything small than 10 football fields in the photographs
++ 💡 The LED matrix cannot be used for Life on Earth. 
++ 📷 The camera can only be used as a sensor for Life in Space to protect the privacy of the astronauts
++ 📅 You can't choose the date, time of day or position of the ISS when your experiment runs
++ 🌡️ The cameras do not have thermal imaging capacity to measure the Earth's temperature
+
+--- /task ---
+
 ### Create your hypothesis
 
 --- task ---
@@ -81,17 +100,6 @@ Life on Earth:
 Does your experiment require a specific event (for example the ISS to pass over mountain). What will you do if this doesn’t happen? 
 
 Create a related secondary goal in the unlikely event your primary experiment is unsuccessful.
-
-Here are some common constraints that impact success:
-+ 🌍 The ISS orbital path restrictions mean there are some places the ISS does not travel over
-+ 💧 The Earth's surface is 70% water
-+ ☁️ Cloud cover might obscure your target
-+ During your experiment the ISS will not pass over the same place twice
-+ 🔎 You will not see anything small than 10 football fields in the photographs
-+ 💡 The LED matrix cannot be used for Life on Earth. 
-+ 📷 The camera can only be used as a sensor for Life in Space to protect the privacy of the astronauts
-+ 📅 You can't choose the date, time of day or position of the ISS when your experiment runs
-+ 🌡️ The cameras do not have thermal imaging capacity to measure the Earth's temperature
 
 --- /task ---
 
