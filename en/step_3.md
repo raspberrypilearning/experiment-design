@@ -1,7 +1,87 @@
-## What next?
+## Define your measurements
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+In this step, you will decide what you will measure, how you will collect measurements and how the measurements will be presented in your experiment. 
 
-![ProjectName project](images/projectname-project.png)
+### Astro Pi sensors and photograps, and other datasets
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+--- task ---
+
+What measurements do you need to take from the Astro Pi units to test your hypothesis? Which of these will you use in your experiment?: 
+
+The Astro Pi sensors:
++ PIR (passive infrared sensor)
++ Colour and luminosity sensor
++ Temperature sensor
++ Pressure sensor
+
+**Tip:** The climate onboard the ISS is regulated so temperature, pressure and humidity variations will be small. 
+
+Photographs from the:
++ Near-infrared camera
++ Visible-light camera 
+
+**Tip** The cameras are powerful but the ISS is a long way up.  If you calculate how much area is covered by a single pixel at the highest resolution possible (the ground sampling distance) it is roughly the size of a football stadium. The movement of the ISS, and the effects of the atmosphere mean that the smallest resolvable objects need to be much bigger than that.  So picking out buildings, cars or people is not possible. 
+
+Positional data:
++ Gyroscope 
++ Aaccelerometer
++ Magnetometer IMU sensor
+
+Machine learning models:
++ Coral ML accelerator
+
+--- /task ---
+
+--- task ---
+
+Do you need any external data to classify or compare your results?
+
+Last year teams used: 
+
++ NASA and ESA photo databases to help train the model 
++ Previous Astro Pi images
++ Köppen climate classification to map climates on Earth (https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification)
++ Results obtained by another team competing in Astro Pi Mission Space Lab to help explain our chromatic data results
++ NASA World View with a layer applied (Enhanced Vegetation Index, L3 Monthly) for pre-Pandemic comparison
+.... and many more!
+
+--- /task ---
+
+### Collecting your measurements
+
+--- task ---
+
+**Choose:** There are 3 ways to collect data. Which method will you use?: 
++ Collect data for analysis back on earth (for example take a measurement every 5 seconds for 3 hours)
++ Collect data with some intelligence (for example only take photos when the ISS is in daylight)
++ Process data in real time against pre-programmed rules (for example test a machine learning classifier to see whether it can identify cloud types in real time.) 
+
+--- /task ---
+
+--- task ---
+
+Raspberry Pi temperature compensation. - How will you check that compensation code works?
+
+**Quote from 2021** We restricted image size to receive photos that were a decent quality but allowed us to capture more photos within our 3GB limit. Unfortunately, you get back fewer images that meet your experiment criteria than you would expect so you need to plan for this within your experiment. 
+
+**Quote from 2021** We restricted the time image were taken to 10 seconds to enable us to capture a wide variety of photos but keep within our 3GB limit. 
+
+**Quote from 2021** We created fast sampling mode to maintain a steady sampling rate at times when an astronaut or g variance was detected 
+
+**Quote from 2021** We tracked the ISS position and checked if its position was on the dark side of the earth. We could then discard those photos since it was overnight and we didn’t want them taking up our storage.
+
+**Quote from 2021** Next time we would modify the code so that no photos would be shot during the night and when only oceans were visible. 
+
+--- /task ---
+
+--- task ---
+
+** Presenting my measurements ** 
+
+Plotting a chart
+Overlaying images
+
+**Examples from 2021** Altitude map by image manipulation , Matplotlib scatter plotter, Graphical plotted data, side by side Google Earth Pro historical images with Astro Pi image, colourmaps
+
+--- /task ---
+

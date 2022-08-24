@@ -1,59 +1,40 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+This project guides you through everything you need to know to create an experiment idea for Mission Space Lab.
 
-### What you will make
+<div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+### PROJECT BRIEF: Create a **digital book**
+<hr style="border-top: 2px solid black;">
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+Come up with an idea for the experiment you want to run on the Astro Pi computers onboard the ISS. 
+
+To enter Mission Space Lab. You must organise a team. 
+
+Your team should have:
++ A mentor to sign-up and be the main contact point
++ Between 2 - 6 young people aged 19 or younger
++ Half the team registered citizens of an eligible country
+
+The theme of your entry could be:
++ Life on Earth
++ Life in Space
+
+Your entry must be submitted before the deadline.
 </div>
---- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+### Get inspiration
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A quote from a 2021/22 winner. The idea of this experiment came to us when we checked the previous projects and we came across the Juno team’s experiment from Spain.
+</p>
 
-+ A computer or tablet capable of running Scratch 3
+--- task ---
 
-### Software
+Astro Pi Mission Space Lab entries can be completely original or take an alternative look at a previous entry. 
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+You could look at their discovery in more detail or find a way to overcome a challenge they met. 
 
-### Downloads
+Get inspiration from the [2021/22 winning teams](https://www.raspberrypi.org/blog/astro-pi-mission-space-lab-2021-22-the-results){:target="_blank"}.
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+--- /task ---
