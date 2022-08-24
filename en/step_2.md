@@ -12,30 +12,23 @@ A <span style="color: #0faeb0">**hypothesis**</span> is an assumption based on l
 
 Start by thinking about a research question. You could create a list of possible questions then choose one to focus your experiment on. 
 
-**Tip:** Choose topics that interests you. You don't need to be an expert in the topic but having an interest will help you create an enaging experiment. 
+**Tip:** Choose topics that interest you. You don't need to be an expert in the topic but having an interest will help you create an enaging experiment. 
 
-To start:
+To start you could:
 
 + Think about what you would like to know about Life in Space or Life on Earth. Then ask  yourself "Is it possible to answer that question with the Astro Pi, it’s sensors and camera?"
-
-Or
-
 + Research what interesting things you could investigate using the Astro Pi, it’s sensors and camera
-
-Or
-
 + Investigate what machine learning or artificial intelligence techniques you could apply to data available from the Astro Pi, it’s sensors and camera
 
-**Tip:** ⏱️ Try to set reasonable expectations of what is possible in the time you have available.
-You might have an amazing idea, but do you have the time to get it working?
+**Tip:** ⏱️ Try to set reasonable expectations of what is possible in the time you have available. You might have an amazing idea, but do you have the time to get it working?
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A quote from a 2021/22 winner. One of our biggest failures is the lack of coordination of time which meant that we had very little time to analyse the data and work on the project. We should therefore better coordinate time with the help of platforms like Trello for future projects. 
+**A quote from a 2021/22 winner.** One of our biggest failures is the lack of coordination of time which meant that we had very little time to analyse the data and work on the project. We should therefore better coordinate time with the help of platforms like Trello for future projects. 
 </p>
 
 --- /task ---
 
-### Write your research question 
+### Focus your research question 
 
 --- task ---
 
@@ -46,8 +39,8 @@ You could ask:
 + What is the relationship between x and y? 
 + How has x changed over time? 
 + What are the characteristics of x?
-+ What are the main factors in x? 
 + What is the impact of X on Y?
+... or something else.
 
 --- /task ---
 
@@ -62,12 +55,12 @@ Here are some common constraints that impact or stop success:
 + 💧 The Earth's surface is 70% water
 + ☁️ Cloud cover might obscure your target
 + During your experiment the ISS will not pass over the same place twice
-+ 🔎 You will not see anything small than 10 football fields in the photographs
++ 🔎 You will not see anything small than 10 football fields in the photographs. So picking out buildings, cars or people is not possible. 
 + 💡 The LED matrix cannot be used for Life on Earth. 
 + 📷 The camera can only be used as a sensor for Life in Space to protect the privacy of the astronauts
 + 📅 You can't choose the date, time of day or position of the ISS when your experiment runs
 + 🌡️ The cameras do not have thermal imaging capacity to measure the Earth's temperature
-
+ 
 --- /task ---
 
 ### Create your hypothesis
