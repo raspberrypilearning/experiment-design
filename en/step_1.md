@@ -9,16 +9,20 @@ This project guides you through everything you need to know to create an experim
 
 Create an experiment to run on the Astro Pi computers onboard the ISS. 
 
-To enter Mission Space Lab. You must organise a team. 
+To enter Mission Space Lab, you must organise a team. 
 
 Your team should have:
 + A mentor to [sign-up](https://missions.astro-pi.org/login){:target="_blank"} and be the main contact point
 + Between 2 - 6 young people aged 19 or younger
 + Half the team registered citizens of an [eligible country](https://astro-pi.org/mission-space-lab/eligibility){:target="_blank"}
 
+
+Mission Space Lab has two themes, you must choose one. 
+
 The theme of your entry could be:
-+ Life on Earth
-+ Life in Space
++ Life on Earth - using the AstroPi cameras to collect evidence of earth based hypotheses
++ Life in Space - using the AstroPi sensors to collect evidence of space based hypotheses
+
 
 Your entry must be submitted before the deadline.
 </div>
@@ -26,7 +30,7 @@ Your entry must be submitted before the deadline.
 ### Get inspiration
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-**A quote from a 2021/22 winner.** The idea of this experiment came to us when we checked the previous projects and we came across the Juno team’s experiment from Spain.
+**A quote from a 2021/22 winner:** "The idea of this experiment came to us when we checked the previous projects and we came across the Juno team’s experiment from Spain."
 </p>
 
 --- task ---
