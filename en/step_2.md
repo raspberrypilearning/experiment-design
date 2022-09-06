@@ -18,7 +18,7 @@ To start, you could:
 
 + Think about what you would like to know about Life in Space or Life on Earth. Then ask  yourself "Is it possible to answer that question with the Astro Pi, it’s sensors and camera?"
 + Research what interesting things you could investigate using the Astro Pi, it’s sensors and camera
-+ Investigate what machine learning or artificial intelligence techniques you could apply to data available from the Astro Pi, it’s sensors and camera
++ Investigate what machine learning or artificial intelligence techniques you could apply to available data from the Astro Pi, it’s sensors and camera
 
 **Tip:** ⏱️ Try to set reasonable expectations of what is possible in the time you have available. You might have an amazing idea, but do you have the time to get it working?
 
@@ -36,9 +36,9 @@ To use your question as a basis for your hypothesis it must be focused, precise 
 
 You could ask:
 
-+ What is the relationship between x and y? 
++ What is the relationship between X and Y? 
 + How has x changed over time? 
-+ What are the characteristics of x?
++ What are the characteristics of X?
 + What is the impact of X on Y?
 ... or something else.
 
@@ -48,10 +48,10 @@ You could ask:
 
 It is crucial that your team understands the limitations of the Astro Pi hardware and what you’re not allowed to do in your experiment. Your idea must fulfil the criteria in the following checklist, otherwise your idea may be disqualified.
 
-+ Your experiment can’t rely on astronaut interaction. We can’t be sure when an astronaut will be around the Astro Pis, and they have their own working schedule.
-+ Your experiment shouldn’t be a game, but a scientific experiment.
++ Your experiment can not rely on astronaut interaction. We can’t be sure when an astronaut will be around the Astro Pis, and they have their own busy working schedule.
++ Your experiment should not be a game, but a scientific experiment.
 + Real-time communication with the Astro Pis on the ISS is not possible, because we don’t have a radio communication module to be able to ‘give instructions’ from Earth.
-+ Don’t expect your experiment to run at a specific date and time. We can’t predict accurately when each experiment will run.
++ Don’t expect your experiment to run at a specific date, time or location. We can’t predict accurately when each experiment will run.
 
 
 --- task ---
@@ -59,10 +59,10 @@ It is crucial that your team understands the limitations of the Astro Pi hardwar
 **Think:** Can your question be answered within the mission constraints?
 
 Here are some common constraints that impact or stop success:
-+ 🌍 The ISS orbital path restrictions mean there are some places the ISS does not travel over - you cannot look at the poles
-+ 💧 The Earth's surface is 70% water - statistically speaking, many of your photos will be of seas and oceans
-+ ☁️ Cloud cover might obscure your target
-+ During your experiment the ISS will not pass over the same place twice
++ 🌍 The ISS orbital path restrictions mean there are some places the ISS does not travel over - you cannot look at the poles for example.
++ 💧 The Earth's surface is 70% water - statistically speaking, many of your photos will be of seas and oceans.
++ ☁️ Cloud cover might obscure your target.
++ During your experiment the ISS will not pass over the same place twice.
 + 🔎 You will not see anything smaller than around 10 football fields in the photographs. So picking out buildings, cars, animals or people is not possible - seeing forests, cities, rivers and plains is much more likely. 
 + 💡 The LED matrix cannot be used for Life on Earth.
 + 📷 The camera can only be used as a sensor for Life in Space to protect the privacy of the astronauts - you can't take photos inside the ISS
