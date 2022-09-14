@@ -71,7 +71,7 @@ Here are some common constraints that impact or stop success:
 + 📷 The camera can only be used as a sensor for 'Life in space' experiments to protect the privacy of the astronauts &mdash; you can't take photos inside the ISS.
 + 📅 You can't choose the date, time of day, or position of the ISS when your experiment runs &mdash; all entries are pre-scheduled and run whenever it is their turn.
 + 🌡️ The cameras do not have thermal imaging capacity to measure the Earth's temperature.
-+ 🔥The temperature and humidity sensors are encased in the flight unit and are more affected by the internal temperature of the flight unit itself than the outside world. You will not be able to accurately measure the temperature or humidity of the ISS out of the box, but you may be able to compensate for this by running your own tests in a controlled environment. You could study the relationship between the temperature and humidity readings from the sensors and compare them to the actual known values.
++ 🔥The temperature and humidity sensors are encased in the flight unit and are more affected by the internal temperature of the flight unit itself than the outside world. You will not be able to accurately measure the temperature or humidity of the ISS out of the box, but you may be able to compensate for this by running your own tests in a controlled environment. 
 
 Here is an example of a 3 hour orbital path. The ISS started over Australia and moved east and north:
 

@@ -35,10 +35,6 @@ There are many ways to present your measurements. You could:
 
 Which technique will you use? 
 
-![Side by side images of a results table and a scatter plot chart.](images/table-scatter.png){:width="400px"}
+![Side by side images of a results table and a scatter plot chart.](images/table-scatter.png)
 
 --- /task ---
-
-
-
---- save ---
