@@ -67,7 +67,7 @@ When you design a Mission Space Lab experiment, it is important to remember that
 
 Our 2021/22 winners opted for a range of different restrictions. For example, image restrictions included:
 + Restricting image size to receive photos that were a decent quality but allowed more captured photos within the 3GB limit 
-+ Restricting the time when images were taken &mdash; 10 seconds intervals enabled capturing of a wide variety of photos within the 3GB limit 
++ Restricting the time when images were taken &mdash; 10-second intervals enable a wide variety of photos to be captured within the 3GB limit 
 + Creating a fast sampling mode to maintain a steady sampling rate at times when a variance was detected 
 + Tracking the ISS position to discard photos if the ISS position was on the dark side of the Earth to free up more storage 
 + Discarding night and ocean photos
