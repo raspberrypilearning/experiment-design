@@ -14,6 +14,8 @@ Whilst you can't at this stage run your experiment in space, you should be able 
 A quote from a 2021/22 winner: "We decided to use Astro Pi pressure, humidity and temperature sensors to monitor the main ISS environmental parameters. We built greenhouses and a darkroom on Earth to simulate the conditions."
 </p>
 
+![DHT22 calibration setup on the RaspberryPi 3B.](images/stress-test.png){:width="400px"}
+
 --- /task ---
 
 ### Present your measurements
@@ -33,8 +35,6 @@ There are many ways to present your measurements. You could:
 
 Which technique will you use? 
 
+![Side by side images of a results table and a scatter plot chart.](images/table-scatter.png)
+
 --- /task ---
-
-
-
---- save ---
