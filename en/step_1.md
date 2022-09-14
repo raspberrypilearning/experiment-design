@@ -31,7 +31,9 @@ Your entry must be submitted before the deadline.
 ### Get inspiration
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-**A quote from a 2021/22 winner:** "The idea of this experiment came to us when we checked the previous projects and we came across the Juno team’s experiment from Spain."
+**A quote from a 2021/22 winner:** "The idea of this experiment came to us when we checked the previous projects and we came across the Juno team’s "How hot it really feels on ISS" experiment from Spain."
+
+![Astronaut Chris Hadfield playing guitar in shorts on the ISS.](images/iss-shorts.png){:width="300px"}
 </p>
 
 --- task ---
