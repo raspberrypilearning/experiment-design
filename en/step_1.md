@@ -20,8 +20,8 @@ Your team should have:
 Mission Space Lab has two themes, you must choose one. 
 
 The theme of your entry could be:
-+ Life on Earth &mdash; using the Astro Pi camera to collect evidence of an Earth-based hypothesis
-+ Life in Space &mdash; using the Astro Pi sensors to collect evidence of a space-based hypothesis
++ Life on Earth &mdash; use the Astro Pi camera to collect evidence of an Earth-based hypothesis
++ Life in space &mdash; use the Astro Pi sensors to collect evidence of a space-based hypothesis
 
 
 Your entry must be submitted before the deadline.
