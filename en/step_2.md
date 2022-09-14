@@ -3,7 +3,7 @@
 In this step, you will develop your idea and create your hypothesis. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**hypothesis**</span> is an assumption based on limited evidence. Your hypothesis will be the predicted answer you expect for your research idea. A clearly written hypothesis will help focus your experiment and write your report. 
+A <span style="color: #0faeb0">**hypothesis**</span> is an assumption based on limited evidence. Your hypothesis will be the predicted answer you expect for your research idea. A clearly written hypothesis will help you focus your experiment and write your report. 
 </p>
 
 ### Develop a research question
