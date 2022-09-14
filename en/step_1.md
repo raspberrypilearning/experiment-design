@@ -14,7 +14,7 @@ To enter Mission Space Lab, you must organise a team.
 Your team should have:
 + A mentor to [sign up](https://missions.astro-pi.org/login){:target="_blank"} and be the main contact point
 + Between 2 and 6 young people and all team members must be aged 19 or younger
-+ At least half the team registered citizens of an [eligible country](https://astro-pi.org/mission-space-lab/eligibility){:target="_blank"} 
++ At least half the team registered as citizens of an [eligible country](https://astro-pi.org/mission-space-lab/eligibility){:target="_blank"} 
 
 
 Mission Space Lab has two themes, you must choose one. 
