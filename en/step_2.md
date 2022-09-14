@@ -12,7 +12,7 @@ A <span style="color: #0faeb0">**hypothesis**</span> is an assumption based on l
 
 Start by thinking about a research question. You could create a list of possible questions and then choose one to focus your experiment on. 
 
-**Tip:** Choose topics that interest you. You don't need to be an expert in the topic, but having an interest will help you create an engaging experiment. 
+**Tip:** Choose topics that interest you. You don't need to be an expert on the topic, but having an interest will help you create an engaging experiment. 
 
 ![Side by side images from the Minecraft world project by team Atlantes.](images/Minecraft.png){:width="400px"}
 
@@ -52,7 +52,7 @@ Or your question could be something else.
 It is crucial that your team understands the limitations of the Astro Pi hardware and what you’re not allowed to do in your experiment. Your idea must fulfil the criteria in the following checklist, otherwise your idea may be disqualified.
 
 + Your experiment can not rely on astronaut interaction. We can’t be sure when an astronaut will be around the Astro Pis, and they have their own busy working schedule.
-+ Your experiment should not be a game, but a scientific experiment.
++ Your experiment should not be a game. It must be a scientific experiment.
 + Real-time communication with the Astro Pis on the ISS is not possible, because we don’t have a radio communication module to be able to ‘give instructions’ from Earth.
 + Don’t expect your experiment to run at a specific date, time, or location. We can’t predict accurately when each experiment will run.
 
@@ -62,7 +62,7 @@ It is crucial that your team understands the limitations of the Astro Pi hardwar
 **Think:** Can your question be answered within the mission constraints?
 
 Here are some common constraints that impact or stop success:
-+ 🌍 The ISS orbital path restrictions mean there are some places the ISS does not travel over &mdash; you cannot look at the poles for example.
++ 🌍 The ISS orbital path restrictions mean there are some places the ISS does not travel over &mdash; you cannot look at the Earth's poles for example.
 + 💧 The Earth's surface is 70% water &mdash; statistically speaking, many of your photos will be of seas and oceans.
 + ☁️ Cloud cover might obscure your target.
 + 🌍 During your experiment the ISS will not pass over the same place twice.
