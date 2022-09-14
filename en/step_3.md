@@ -2,11 +2,11 @@
 
 In this step, you will decide what you will measure and how you will collect those measurements. 
 
-### Astro Pi sensors and photographs, and other datasets
+### Astro Pi sensors and photographs, and other data sets
 
 --- task ---
 
-Which Astro Pi instruments do you need to take measurements from, in order to test your hypothesis?
+Which Astro Pi instruments do you need to take measurements from to test your hypothesis?
 
 The Astro Pi sensors:
 + PIR (passive infrared sensor)
