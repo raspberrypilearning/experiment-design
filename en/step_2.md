@@ -65,7 +65,7 @@ Here are some common constraints that impact or stop success:
 + 🌍 The ISS orbital path restrictions mean there are some places the ISS does not travel over &mdash; you cannot look at the poles for example.
 + 💧 The Earth's surface is 70% water &mdash; statistically speaking, many of your photos will be of seas and oceans.
 + ☁️ Cloud cover might obscure your target.
-+ During your experiment the ISS will not pass over the same place twice.
++ 🌍 During your experiment the ISS will not pass over the same place twice.
 + 🔎 You will not see anything smaller than around 10 football fields in the photographs. So it is not possible to see buildings, cars, animals, or people. It is much more likely that you will see forests, cities, rivers, and plains. 
 + 💡 The LED matrix cannot be used for 'Life on Earth' experiments.
 + 📷 The camera can only be used as a sensor for 'Life in space' experiments to protect the privacy of the astronauts &mdash; you can't take photos inside the ISS.
