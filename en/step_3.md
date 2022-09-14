@@ -34,13 +34,13 @@ Machine learning models:
 
 Do you need any external data to classify or compare your results?
 
-Last year, teams used: 
+Last year, some teams used: 
 
 + NASA and ESA photo databases to help train a model 
 + Previous Astro Pi images
 + [Köppen climate classification](https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification){:target="_blank"} to map climates on Earth 
 + Results obtained by another team competing in Astro Pi Mission Space Lab to help explain chromatic data results
-+ NASA Worldview with a layer applied [(Enhanced Vegetation Index, L3 Monthly)](https://lpdaac.usgs.gov/products/mod13a3v061/){:target="_blank"} for pre-pandemic comparison  
++ NASA Worldview with a layer applied [(Enhanced Vegetation Index, L3 Monthly)](https://lpdaac.usgs.gov/products/mod13a3v061/){:target="_blank"} for pre-pandemic comparisons  
 
 ... and many more!
 
