@@ -75,4 +75,6 @@ Our 2021/22 winners opted for a range of different restrictions. For example, im
 
 **Tip:** The climate onboard the ISS is regulated so temperature, pressure and humidity variations will be tiny. 
 
+![Two images one most likely to be sea and the other most likely to be land.](images/land-probability.png)
+
 --- /task ---
