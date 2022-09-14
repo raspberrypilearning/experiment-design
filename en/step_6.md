@@ -2,7 +2,7 @@
 
 If accepted for Phase 2, your team will write the program for the experiment you have proposed, and then test and submit it. These are the steps involved:
 
-1. **Acceptance to Phase 2**
+1. **Acceptance to Phase 2** <br>
 You will receive an email confirming your acceptance to Phase 2 of the challenge. You will also receive a team ID for your team.
 
 2. **Receive your kit**
