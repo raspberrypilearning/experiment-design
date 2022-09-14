@@ -73,11 +73,11 @@ Here are some common constraints that impact or stop success:
 + 🌡️ The cameras do not have thermal imaging capacity to measure the Earth's temperature.
 + 🔥The temperature and humidity sensors are encased in the flight unit and are more affected by the internal temperature of the flight unit itself than the outside world. You will not be able to accurately measure the temperature or humidity of the ISS out of the box, but you may be able to compensate for this by running your own tests in a controlled environment. 
 
-Here is an example of a 3 hour orbital path. The ISS started over Australia and moved east and north:
+Here is an example of a 3-hour orbital path. The ISS started over Australia and moved east and north:
 
 ![Image of the Earth overlaid with a path of travel showing the ISS moving north and east, then coming back south and west, ending up further west than when it started.](images/single_lap.png){:width="400px"}
 
-Note that as the ISS is moving around the Earth, its orbit is always moving west. You can see that on the second pass around the Earth, the ISS passes further to the west of Australia. Therefore during a 3 hour period, you will never pass over the same place twice. 
+Note that as the ISS is moving around the Earth, its orbit is always moving west. You can see that on the second pass around the Earth, the ISS passes further to the west of Australia. Therefore during a 3-hour period, you will never pass over the same place twice. 
 
  
 --- /task ---
