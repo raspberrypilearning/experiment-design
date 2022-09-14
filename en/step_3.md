@@ -14,7 +14,7 @@ The Astro Pi sensors:
 + Temperature sensor
 + Pressure sensor
 
-Imagagin from the:
+Imagaing from the:
 + Near-infrared camera
 + Visible-light camera 
 
@@ -25,6 +25,8 @@ Positional data from the IMU:
 
 Machine learning models:
 + Coral ML accelerator
+
+![Two Astro Pi computers floating onboard the ISS.](images/AP_spin.gif)
 
 --- /task ---
 
