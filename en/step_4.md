@@ -31,7 +31,8 @@ There are many ways to present your measurements. You could:
 + Review side-by-side images 
 + Overlay images
 + Make colourmaps
-+ Present your measurements in another way  
+
+Or you could present your measurements in another way.  
 
 Which technique will you use? 
 
