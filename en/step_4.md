@@ -8,7 +8,7 @@ In this step, you will review methods to present your data and simulate your exp
 
 While you can't run your experiment in space at this stage, you should be able to find ways to test your hypothesis by simulating the environment or using other data sets for comparison. 
 
-**Tip:** Make notes about any comparative testing you performed to include in your final report. 
+**Tip:** Make notes about any comparative testing you perform to include in your final report. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 A quote from a 2021/22 winner: "We decided to use Astro Pi pressure, humidity and temperature sensors to monitor the main ISS environmental parameters. We built greenhouses and a darkroom on Earth to simulate the conditions."
