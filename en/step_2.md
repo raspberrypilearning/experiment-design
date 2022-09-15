@@ -66,7 +66,7 @@ Here are some common constraints that impact or stop success:
 + 💧 The Earth's surface is 70% water &mdash; statistically speaking, many of your photos will be of seas and oceans.
 + ☁️ Cloud cover might obscure your target.
 + 🌍 During your experiment the ISS will not pass over the same place twice.
-+ 🔎 You will not see anything smaller than around 10 football fields in the photographs. So it is not possible to see buildings, cars, animals, or people. It is much more likely that you will see forests, cities, rivers, and plains. 
++ 🔎 In the photographs, you will not see anything smaller than around the size of ten football fields. So it is not possible to see buildings, cars, animals, or people. It is much more likely that you will see forests, cities, rivers, and plains. 
 + 💡 The LED matrix cannot be used for 'Life on Earth' experiments.
 + 📷 The camera can only be used as a sensor for 'Life in space' experiments to protect the privacy of the astronauts &mdash; you can't take photos inside the ISS.
 + 📅 You can't choose the date, time of day, or position of the ISS when your experiment runs &mdash; all entries are pre-scheduled and run whenever it is their turn.
@@ -96,7 +96,7 @@ Write your hypothesis. Your hypothesis should include:
 Life in space:
 + 🌿 Plant species bring comfort and wellness to the astronauts. Identifying the most suitable plant species will greatly improve the indoor environment of the ISS.
 + 🌗 When astronauts stay on the ISS for extended periods of time, their health is impacted by disturbances in their circadian rhythm due to varying light levels. 
-+ 🧲 As the ISS is located quite low above Earth there is only a slight difference in the strength of the magnetic field between day and night side of the Earth at the height of the ISS. 
++ 🧲 As the ISS is located quite low above Earth, there is only a slight difference in the strength of the magnetic field between the day and night side of the Earth at the height of the ISS. 
 
 Life on Earth:
 + 🌧️ Classifying clouds in real-time can alert people to local dangers such as flash flooding, storms, and strong winds. 
