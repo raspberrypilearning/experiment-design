@@ -14,7 +14,7 @@ While you can't run your experiment in space at this stage, you should be able t
 A quote from a 2021/22 winner: "We decided to use Astro Pi pressure, humidity and temperature sensors to monitor the main ISS environmental parameters. We built greenhouses and a darkroom on Earth to simulate the conditions."
 </p>
 
-![DHT22 calibration setup on the RaspberryPi 3B.](images/stress-test.png){:width="400px"}
+![DHT22 calibration setup on the Raspberry Pi 3B.](images/stress-test.png){:width="400px"}
 
 --- /task ---
 
