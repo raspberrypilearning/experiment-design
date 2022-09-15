@@ -9,7 +9,7 @@ This project guides you through everything you need to know to create an idea fo
 
 Create an experiment to run on the Astro Pi computers on board the ISS. 
 
-![Samantha Cristoforetti with two MkII Astro Pi.](images/MkII-APs.JPG){:width="400px"}
+![Astronaut Samantha Cristoforetti with two MkII Astro Pi.](images/MkII-APs.JPG){:width="400px"}
 
 To enter Mission Space Lab, you must organise a team. 
 
