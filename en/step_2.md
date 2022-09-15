@@ -14,7 +14,7 @@ Start by thinking about a research question. You could create a list of possible
 
 **Tip:** Choose topics that interest you. You don't need to be an expert on the topic, but having an interest will help you create an engaging experiment. 
 
-![Side by side images from the Minecraft world project by team Atlantes.](images/Minecraft.png){:width="400px"}
+![Side-by-side images from the Minecraft world project by team Atlantes.](images/Minecraft.png){:width="400px"}
 
 To start, you could:
 
@@ -75,7 +75,7 @@ Here are some common constraints that impact or stop success:
 
 Here is an example of a 3-hour orbital path. The ISS started over Australia and moved east and north:
 
-![Image of the Earth overlaid with a path of travel showing the ISS moving north and east, then coming back south and west, ending up further west than when it started.](images/single_lap.png){:width="400px"}
+![Image of the Earth overlaid with a path of travel showing the ISS moving north and east, then coming back south and west, and ending up further west than when it started.](images/single_lap.png){:width="400px"}
 
 Note that as the ISS is moving around the Earth, its orbit is always moving west. You can see that on the second pass around the Earth, the ISS passes further to the west of Australia. Therefore during a 3-hour period, you will never pass over the same place twice. 
 
