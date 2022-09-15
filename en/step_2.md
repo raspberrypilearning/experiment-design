@@ -51,9 +51,9 @@ Or your question could be something else.
 
 It is crucial that your team understands the limitations of the Astro Pi hardware and what you’re not allowed to do in your experiment. Your idea must fulfil the criteria in the following checklist, otherwise your idea may be disqualified.
 
-+ Your experiment can not rely on astronaut interaction. We can’t be sure when an astronaut will be around the Astro Pis, and they have their own busy working schedule.
++ Your experiment cannot rely on astronaut interaction. We can’t be sure when an astronaut will be around the Astro Pis, and they have their own busy working schedules.
 + Your experiment should not be a game. It must be a scientific experiment.
-+ Real-time communication with the Astro Pis on the ISS is not possible, because we don’t have a radio communication module to be able to ‘give instructions’ from Earth.
++ Real-time communication with the Astro Pis on the ISS is not possible because we don’t have a radio communication module to be able to ‘give instructions’ from Earth.
 + Don’t expect your experiment to run at a specific date, time, or location. We can’t predict accurately when each experiment will run.
 
 
