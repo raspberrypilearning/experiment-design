@@ -59,11 +59,11 @@ What resources can you find online that might help test **your** hypothesis?
 
 --- /task ---
 
-When you design a Mission Space Lab experiment, it is important to remember that there is **3GB** storage available to each team. If you take high-quality images at short intervals, you will find that you reach data capacity quite quickly. You may also find that, due to the nature of the flight of the ISS, many of the images you take will be of water or clouds.
+When you design a Mission Space Lab experiment, it is important to remember that there is **3GB** of storage available to each team. If you take high-quality images at short intervals, you will find that you reach data capacity quite quickly. You may also find that, due to the nature of the flight of the ISS, many of the images you take will be of water or clouds.
 
 --- task ---
 
-**Think:** Consider any restrictions you want to put in place to improve the quality of your measurements in line with your experiment: 
+**Think:** Consider any restrictions you want to put in place to improve the quality of your measurements in line with your experiment. 
 
 Our 2021/22 winners opted for a range of different restrictions. For example, image restrictions included:
 + Restricting image size to receive photos that were a decent quality but allowed more captured photos within the 3GB limit 
@@ -76,6 +76,6 @@ Our 2021/22 winners opted for a range of different restrictions. For example, im
 
 **Tip:** The climate on board the ISS is regulated so temperature, pressure, and humidity variations will be tiny. 
 
-![Two images one most likely to be sea and the other most likely to be land.](images/land-probability.png)
+![Two images, one is most likely to be sea and the other is most likely to be land.](images/land-probability.png)
 
 --- /task ---
