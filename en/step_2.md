@@ -14,7 +14,7 @@ Start by thinking about a research question. You could create a list of possible
 
 **Tip:** Choose topics that interest you. You don't need to be an expert on the topic, but having an interest will help you create an engaging experiment. 
 
-![Side by side images from the Minecraft world project by team Atlantes.](images/Minecraft.png){:width="400px"}
+![Side-by-side images from the Minecraft world project by team Atlantes.](images/Minecraft.png){:width="400px"}
 
 To start, you could:
 
@@ -51,9 +51,9 @@ Or your question could be something else.
 
 It is crucial that your team understands the limitations of the Astro Pi hardware and what you’re not allowed to do in your experiment. Your idea must fulfil the criteria in the following checklist, otherwise your idea may be disqualified.
 
-+ Your experiment can not rely on astronaut interaction. We can’t be sure when an astronaut will be around the Astro Pis, and they have their own busy working schedule.
++ Your experiment cannot rely on astronaut interaction. We can’t be sure when an astronaut will be around the Astro Pis, and they have their own busy working schedules.
 + Your experiment should not be a game. It must be a scientific experiment.
-+ Real-time communication with the Astro Pis on the ISS is not possible, because we don’t have a radio communication module to be able to ‘give instructions’ from Earth.
++ Real-time communication with the Astro Pis on the ISS is not possible because we don’t have a radio communication module to be able to ‘give instructions’ from Earth.
 + Don’t expect your experiment to run at a specific date, time, or location. We can’t predict accurately when each experiment will run.
 
 
@@ -66,18 +66,18 @@ Here are some common constraints that impact or stop success:
 + 💧 The Earth's surface is 70% water &mdash; statistically speaking, many of your photos will be of seas and oceans.
 + ☁️ Cloud cover might obscure your target.
 + 🌍 During your experiment the ISS will not pass over the same place twice.
-+ 🔎 You will not see anything smaller than around 10 football fields in the photographs. So it is not possible to see buildings, cars, animals, or people. It is much more likely that you will see forests, cities, rivers, and plains. 
++ 🔎 In the photographs, you will not see anything smaller than around the size of ten football fields. So it is not possible to see buildings, cars, animals, or people. It is much more likely that you will see forests, cities, rivers, and plains. 
 + 💡 The LED matrix cannot be used for 'Life on Earth' experiments.
 + 📷 The camera can only be used as a sensor for 'Life in space' experiments to protect the privacy of the astronauts &mdash; you can't take photos inside the ISS.
 + 📅 You can't choose the date, time of day, or position of the ISS when your experiment runs &mdash; all entries are pre-scheduled and run whenever it is their turn.
 + 🌡️ The cameras do not have thermal imaging capacity to measure the Earth's temperature.
 + 🔥The temperature and humidity sensors are encased in the flight unit and are more affected by the internal temperature of the flight unit itself than the outside world. You will not be able to accurately measure the temperature or humidity of the ISS out of the box, but you may be able to compensate for this by running your own tests in a controlled environment. 
 
-Here is an example of a 3 hour orbital path. The ISS started over Australia and moved east and north:
+Here is an example of a 3-hour orbital path. The ISS started over Australia and moved east and north:
 
-![Image of the Earth overlaid with a path of travel showing the ISS moving north and east, then coming back south and west, ending up further west than when it started.](images/single_lap.png){:width="400px"}
+![Image of the Earth overlaid with a path of travel showing the ISS moving north and east, then coming back south and west, and ending up further west than when it started.](images/single_lap.png){:width="400px"}
 
-Note that as the ISS is moving around the Earth, its orbit is always moving west. You can see that on the second pass around the Earth, the ISS passes further to the west of Australia. Therefore during a 3 hour period, you will never pass over the same place twice. 
+Note that as the ISS is moving around the Earth, its orbit is always moving west. You can see that on the second pass around the Earth, the ISS passes further to the west of Australia. Therefore during a 3-hour period, you will never pass over the same place twice. 
 
  
 --- /task ---
@@ -96,7 +96,7 @@ Write your hypothesis. Your hypothesis should include:
 Life in space:
 + 🌿 Plant species bring comfort and wellness to the astronauts. Identifying the most suitable plant species will greatly improve the indoor environment of the ISS.
 + 🌗 When astronauts stay on the ISS for extended periods of time, their health is impacted by disturbances in their circadian rhythm due to varying light levels. 
-+ 🧲 As the ISS is located quite low above Earth there is only a slight difference in the strength of the magnetic field between day and night side of the Earth at the height of the ISS. 
++ 🧲 As the ISS is located quite low above Earth, there is only a slight difference in the strength of the magnetic field between the day and night side of the Earth at the height of the ISS. 
 
 Life on Earth:
 + 🌧️ Classifying clouds in real-time can alert people to local dangers such as flash flooding, storms, and strong winds. 

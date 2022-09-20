@@ -2,11 +2,11 @@
 
 In this step, you will decide what you will measure and how you will collect those measurements. 
 
-### Astro Pi sensors and photograps, and other datasets
+### Astro Pi sensors and photographs, and other data sets
 
 --- task ---
 
-From which Astro Pi instruments do you need to take measurements, in order to test your hypothesis?
+Which Astro Pi instruments do you need to take measurements from to test your hypothesis?
 
 The Astro Pi sensors:
 + PIR (passive infrared sensor)
@@ -14,19 +14,19 @@ The Astro Pi sensors:
 + Temperature sensor
 + Pressure sensor
 
-Imagaing from the:
+Imaging from the:
 + Near-infrared camera
 + Visible-light camera 
 
 Positional data from the IMU:
 + Gyroscope 
-+ Aaccelerometer
++ Accelerometer
 + Magnetometer
 
 Machine learning models:
 + Coral ML accelerator
 
-![Two Astro Pi computers floating onboard the ISS.](images/AP_spin.gif)
+![Two Astro Pi computers floating on board the ISS.](images/AP_spin.gif)
 
 --- /task ---
 
@@ -34,47 +34,48 @@ Machine learning models:
 
 Do you need any external data to classify or compare your results?
 
-Last year teams used: 
+Last year, some teams used: 
 
 + NASA and ESA photo databases to help train a model 
 + Previous Astro Pi images
 + [Köppen climate classification](https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification){:target="_blank"} to map climates on Earth 
-+ Results obtained by another team competing in Astro Pi Mission Space Lab to help explain  chromatic data results
-+ NASA World View with a layer applied [(Enhanced Vegetation Index, L3 Monthly)](https://lpdaac.usgs.gov/products/mod13a3v061/){:target="_blank"} for pre-Pandemic comparison  
-.... and many more!
++ Results obtained by another team competing in Astro Pi Mission Space Lab to help explain chromatic data results
++ NASA Worldview with a layer applied [(Enhanced Vegetation Index, L3 Monthly)](https://lpdaac.usgs.gov/products/mod13a3v061/){:target="_blank"} for pre-pandemic comparisons  
+
+... and many more!
 
 What resources can you find online that might help test **your** hypothesis?
 
 --- /task ---
 
-### Collecting your measurements
+### Collect your measurements
 
 --- task ---
 
-**Choose:** There are 3 ways to collect data. Which method will you use? 
-+ Collect data for analysis back on earth (for example take a measurement every 5 seconds for 3 hours)
+**Choose:** There are three ways to collect data. Which method will you use? 
++ Collect data for analysis back on Earth (for example take a measurement every 5 seconds for 3 hours)
 + Collect data with some intelligence (for example only take photos when the ISS is in daylight)
-+ Process data in real time against pre-programmed rules (for example test a machine learning classifier to see whether it can identify cloud types in real time.)
++ Process data in real time against pre-programmed rules (for example test a machine learning classifier to see whether it can identify cloud types in real time)
 
 --- /task ---
 
-An important thing to remember when designing a Mission Space Lab experiment is the **3Gb** storage available to each team. If you are taking high quality images at short intervals, you will find that you reach data capacity quite quickly. You may also find that, due to the nature of the flight of the ISS, many of the images you take will be of water or clouds.
+When you design a Mission Space Lab experiment, it is important to remember that there is **3GB** of storage available to each team. If you take high-quality images at short intervals, you will find that you reach data capacity quite quickly. You may also find that, due to the nature of the flight of the ISS, many of the images you take will be of water or clouds.
 
 --- task ---
 
-**Think:** Consider any restrictions you want to put in place to improve the quality of your measurements in line with your experiment: 
+**Think:** Consider any restrictions you want to put in place to improve the quality of your measurements in line with your experiment. 
 
 Our 2021/22 winners opted for a range of different restrictions. For example, image restrictions included:
-+ Restricting image size - to receive photos that were a decent quality but allowed more captured photos within the 3GB limit. 
-+ Restricting the time when images are taken - 10 seconds intervals enabled capturing of a wide variety of photos  within the 3GB limit. 
-+ Creating a fast sampling mode - to maintain a steady sampling rate at times when a variance was detected 
-+ Tracking the ISS position - to discard photos if the ISS position was on the dark side of the earth to free up more storage. 
-+ Discard night and ocean photos.
++ Restricting image size to receive photos that were a decent quality but allowed more captured photos within the 3GB limit 
++ Restricting the time when images were taken &mdash; 10-second intervals enable a wide variety of photos to be captured within the 3GB limit 
++ Creating a fast sampling mode to maintain a steady sampling rate at times when a variance was detected 
++ Tracking the ISS position to discard photos if the ISS position was on the dark side of the Earth to free up more storage 
++ Discarding night and ocean photos
 
-**Tip:** If you are taking measurements from the temperature sensor you need to allow some compensation for the heat generated by the Raspberry Pi's CPU. How will you check that your compensation code works?
+**Tip:** If you are taking measurements from the temperature sensor, you need to allow some compensation for the heat generated by the Raspberry Pi's CPU. How will you check that your compensation code works?
 
-**Tip:** The climate onboard the ISS is regulated so temperature, pressure and humidity variations will be tiny. 
+**Tip:** The climate on board the ISS is regulated so temperature, pressure, and humidity variations will be tiny. 
 
-![Two images one most likely to be sea and the other most likely to be land.](images/land-probability.png)
+![Two images, one is most likely to be sea and the other is most likely to be land.](images/land-probability.png)
 
 --- /task ---
