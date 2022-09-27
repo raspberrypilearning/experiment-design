@@ -2,8 +2,8 @@ title: Design an experiment for Mission Space Lab
 hero_image: images/banner.png
 description: Design an experiment for Mission Space Lab
 version: 4
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: "2022-05-19"
 steps:
   - title: Introduction
