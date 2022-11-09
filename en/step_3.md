@@ -11,7 +11,7 @@ Which Astro Pi instruments do you need to take measurements from to test your hy
 The Astro Pi sensors:
 + PIR (passive infrared sensor)
 + Colour and luminosity sensor
-+ Temperature sensor
++ Temperature and humidity sensor
 + Pressure sensor
 
 Imaging from the:
